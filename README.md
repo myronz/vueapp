@@ -1,6 +1,6 @@
-# demo
+# Vueapp
 
-> this is a demo
+> 学习vue过程中的代码，还没有完成，有些地方还不能使用
 
 ## Build Setup
 
